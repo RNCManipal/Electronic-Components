@@ -1,2 +1,2 @@
-1.	Yeah  basically plug in, download board from board manager, install stm32 library and upload code. Ez shit
+
 	
